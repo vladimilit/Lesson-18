@@ -1,0 +1,78 @@
+/* ========== titles ========== */
+
+.title-text {
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.subtitle-text {
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 1.3;
+  margin-bottom: 40px;
+}
+
+/* ==========  button ========== */
+
+.btn__item {
+  display: inline-block;
+  letter-spacing: 0.5px;
+  border-radius: 4px;
+}
+
+.btn-about {
+  color: #ffffff;
+  border: 1px solid transparent;
+  background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+}
+
+.btn-about:hover {
+  color: #ff3f3a;
+  border: 1px solid #ff3f3a;
+  background: transparent;
+}
+
+.btn-courses {
+  color: #ff3f3a;
+  border: 1px solid #ff3f3a;
+}
+
+.btn-courses:hover {
+  color: #ffffff;
+  border: 1px solid transparent;
+  background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+}
+
+/* ==========  decor ========== */
+
+/* 
+.decor__1 {
+  width: 181px;
+	height: 132px;
+  background: url("../img/decor/dots.svg") 0 0 no-repeat;
+}
+
+.decor__2 {
+  width: 287px;
+  height: 287px;
+  background: url("../img//decor/circles.svg") 0 0 no-repeat;
+} 
+*/
+
+/* ==========  cards ========== */
+
+.card-courses-green {
+  background-color: #03cea4;
+}
+.card-courses-blue {
+  background-color: #5a87fc;
+}
+.card-courses-orange {
+  background-color: #f89828;
+}
+.card-courses-pink {
+  background-color: #f52f6e;
+}
